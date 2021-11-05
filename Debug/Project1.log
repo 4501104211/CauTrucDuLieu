@@ -1,0 +1,12 @@
+﻿  Source.cpp
+E:\dowload E\Project1\Graphic.h(34,30): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+E:\dowload E\Project1\Graphic.h(34,38): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+E:\dowload E\Project1\Source.cpp(7,41): warning C4081: expected 'newline'; found ';'
+E:\dowload E\Project1\Source.cpp(56,54): warning C4273: 'SetConsoleOutputCP': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\consoleapi2.h(141,1): message : see previous definition of 'SetConsoleOutputCP'
+E:\dowload E\Project1\Source.cpp(315,21): warning C4018: '<': signed/unsigned mismatch
+E:\dowload E\Project1\Source.cpp(340,21): warning C4018: '<': signed/unsigned mismatch
+E:\dowload E\Project1\Source.cpp(375,21): warning C4018: '<': signed/unsigned mismatch
+E:\dowload E\Project1\LinkedList.h(249): warning C4715: 'LinkedList<HangHoa>::operator[]': not all control paths return a value
+E:\dowload E\Project1\LinkedList.h(249): warning C4715: 'LinkedList<DonHang>::operator[]': not all control paths return a value
+  Project1.vcxproj -> E:\dowload E\Project1\Debug\Project1.exe
